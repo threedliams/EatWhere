@@ -1,0 +1,40 @@
+{
+    "place 1": {
+        "open": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cuisine": "mexican"
+    },
+    "place 2": {
+        "open": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cuisine": "thai"
+    },
+    "place 3": {
+        "open": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cuisine": "thai"
+    },
+    "place 4": {
+        "open": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cuisine": "thai"
+    }
+}

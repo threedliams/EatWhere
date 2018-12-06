@@ -1,0 +1,24 @@
+{
+    "ramsey": {
+        "veto": [
+        ],
+        "prefer": [
+            "place 3"
+        ],
+        "dislike": [
+            "place 4"
+        ]
+    },
+    "not_ramsey": {
+        "veto": [
+            "place 2",
+            "mexican"
+        ],
+        "prefer": [
+            "place 3"
+        ],
+        "dislike": [
+            "place 1"
+        ]
+    }
+}
